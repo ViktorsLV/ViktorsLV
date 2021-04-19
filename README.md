@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi there 👋, I am Viktor Cebotarjov!
 
 <!--
 **ViktorsLV/ViktorsLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on finishing Web Development degree at university in Denmark
+- 🌱 Learning Nuxt.js and everything else sorrounding Vue.js!
+- 💬 Building small side projects and looking for a way to improve myself
+- 😄 Words that describe me: Curious, Determined, Energetic
+- ⚡ As my hobbies I am a fan of good movies, film camera pictures and football
+- 📫 Reach me by email: viktors.ch11@gmail.com  
+--------
+
+🧰 Toolbox
+
+I am comfortable with: 
+
+>JavaScript,
+>Vue.js,
+>Vuetify,
+>Chakra UI,
+>Strapi (CMS),
+>HTML5,
+>CSS3,
+>NPM,
+>Git,
+>Nuxt.js
+
+I am also familiar with the basics of:
+>Node.js,
+>Express,
+>MongoDB
+
+--------
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorsLV&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktorsLV&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
