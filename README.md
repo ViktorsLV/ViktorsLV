@@ -29,7 +29,7 @@ I am comfortable with:
 >Git,
 >Nuxt.js
 
-I am also familiar with the basics of:
+I am also familiar with fundamentals of:
 >Node.js,
 >Express,
 >MongoDB
