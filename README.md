@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on finishing Web Development degree in Denmark
-- 🌱 Learning Nuxt.js and everything else sorrounding Vue.js
-- 💬 Building small side projects and looking for a way to improve myself
-- ✨ My goal is to become a mobile app developer 
-- 😄 Words that describe me: Structured, Determined, Energetic
-- ⚡ I am a fan of good movies, film cameras and football
+- 🔭 Currently working on finishing Web Development degree in Denmark
+<!-- - 🌱 Learning Nuxt.js and everything else sorrounding Vue.js -->
+<!-- - 💬 Building small side projects and looking for a way to improve myself -->
+<!-- - ✨ My goal is to become a mobile app developer  -->
+<!-- - 😄 Words that describe me: Structured, Determined, Energetic
+- ⚡ I am a fan of good movies, film cameras and football -->
 - 📫 Reach me by email: viktors.ch11@gmail.com  
 --------
 
