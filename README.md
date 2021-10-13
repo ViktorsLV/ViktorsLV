@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 I am comfortable with: 
 
 >JavaScript,
->Vue.js,
+>Vue,
+>React
+>Bootstrap
 >Vuetify,
->Chakra UI,
 >Strapi (CMS),
 >HTML5,
 >CSS3,
@@ -33,7 +34,8 @@ I am comfortable with:
 I am also familiar with fundamentals of:
 >Node.js,
 >Express,
->MongoDB
+>MongoDB,
+>MySQL
 
 --------
 
