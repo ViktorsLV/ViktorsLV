@@ -21,15 +21,15 @@ I am comfortable with:
 
 >JavaScript,
 >Vue,
->React
->Bootstrap
+>React,
+>NPM,
+>Git,
+>Nuxt.js,
+>Bootstrap,
 >Vuetify,
 >Strapi (CMS),
 >HTML5,
->CSS3,
->NPM,
->Git,
->Nuxt.js
+>CSS3
 
 I am also familiar with fundamentals of:
 >Node.js,
