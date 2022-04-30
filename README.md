@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Currently working on finishing Web Development degree in Denmark
-<!-- - 🌱 Learning Next.js and everything else sorrounding React.js -->
+- 🌱 Learning Next.js and everything else sorrounding React 
 <!-- - 💬 Building small side projects and looking for a way to improve myself daily -->
 <!-- - ✨ My goal is to become a mobile app developer  -->
 <!-- - 😄 Words that describe me: Structured, Determined, Consistent
