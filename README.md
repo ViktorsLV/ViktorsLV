@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Currently working on finishing Web Development degree in Denmark
-<!-- - 🌱 Learning Nuxt.js and everything else sorrounding Vue.js -->
-<!-- - 💬 Building small side projects and looking for a way to improve myself -->
+<!-- - 🌱 Learning Next.js and everything else sorrounding React.js -->
+<!-- - 💬 Building small side projects and looking for a way to improve myself daily -->
 <!-- - ✨ My goal is to become a mobile app developer  -->
-<!-- - 😄 Words that describe me: Structured, Determined, Energetic
+<!-- - 😄 Words that describe me: Structured, Determined, Consistent
 - ⚡ I am a fan of good movies, film cameras and football -->
 - 📫 Reach me by email: viktors.ch11@gmail.com  
 --------
