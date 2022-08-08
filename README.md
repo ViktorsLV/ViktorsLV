@@ -19,20 +19,20 @@ Here are some ideas to get you started:
 
 I am comfortable with: 
 
->JavaScript
->React
->Vue
+>JavaScript,
+>React,
+>Vue,
 >Next.js
 
->Bootstrap
->TailwindCSS
+>Bootstrap,
+>TailwindCSS,
 >Vuetify
 
->Strapi (CMS)
+>Strapi (CMS),
 >Sanity (CMS)
 
->NPM
->Git
+>NPM,
+>Git,
 >Docker
 
 
