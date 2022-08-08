@@ -19,19 +19,25 @@ Here are some ideas to get you started:
 
 I am comfortable with: 
 
->JavaScript,
->Vue,
->React,
->NPM,
->Git,
->Nuxt.js,
->Bootstrap,
->Vuetify,
->Strapi (CMS),
->HTML5,
->CSS3
+>JavaScript
+>React
+>Vue
+>Next.js
+
+>Bootstrap
+>TailwindCSS
+>Vuetify
+
+>Strapi (CMS)
+>Sanity (CMS)
+
+>NPM
+>Git
+>Docker
+
 
 I am also familiar with fundamentals of:
+
 >Node.js,
 >Express,
 >MongoDB,
