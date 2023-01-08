@@ -36,7 +36,7 @@ I am comfortable with:
 >Git,
 >Docker
 
->Vercel
+>Vercel,
 >Netlify
 
 
