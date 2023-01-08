@@ -22,10 +22,11 @@ I am comfortable with:
 >JavaScript,
 >React,
 >Vue,
->Next.js
+>Next.js,
+>React Query
 
->Bootstrap,
 >TailwindCSS,
+>MaterialUI,
 >Vuetify
 
 >Strapi (CMS),
@@ -35,13 +36,19 @@ I am comfortable with:
 >Git,
 >Docker
 
+>Vercel
+>Netlify
+
 
 I am also familiar with fundamentals of:
 
 >Node.js,
 >Express,
 >MongoDB,
->MySQL
+>MySQL,
+>Digital Ocean
+
+>PHP (Laravel)
 
 --------
 
