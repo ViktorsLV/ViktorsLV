@@ -6,8 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Currently working on finishing Web Development degree in Denmark
-- 🌱 Learning Next.js and everything else sorrounding React 
+- 💻 Currently working on personal projects and client requests
+- 📚 Learning Next.js and everything else sorrounding React ecosystem
+- 👀 Curious about emerging development trends
+- 👨🏼‍🎓 Recently graduated as Bachelor of Web Development 
+- 📍 I like to work remotely, hence my current location is always changing 
 <!-- - 💬 Building small side projects and looking for a way to improve myself daily -->
 <!-- - ✨ My goal is to become a mobile app developer  -->
 <!-- - 😄 Words that describe me: Structured, Determined, Consistent
@@ -47,7 +50,6 @@ I am also familiar with fundamentals of:
 >MongoDB,
 >MySQL,
 >Digital Ocean
-
 >PHP (Laravel)
 
 --------
