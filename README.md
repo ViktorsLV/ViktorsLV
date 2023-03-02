@@ -49,7 +49,7 @@ I am also familiar with fundamentals of:
 >Express,
 >MongoDB,
 >MySQL,
->Digital Ocean
+>Digital Ocean,
 >PHP (Laravel)
 
 --------
