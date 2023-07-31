@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - ✨ My goal is to become a mobile app developer  -->
 <!-- - 😄 Words that describe me: Structured, Determined, Consistent
 - ⚡ I am a fan of good movies, film cameras and football -->
-- 📫 Reach me by email: viktors.ch11@gmail.com  
+- 📫 Reach me by email: vik.ceb.dev@gmail.com  
 --------
 
 🧰 Toolbox
