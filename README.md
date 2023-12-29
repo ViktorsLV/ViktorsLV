@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 Currently working on personal projects and client requests
-- 📚 Learning Next.js and everything else sorrounding React ecosystem
+- 💻 Currently working remotely at Kilo Healh, I spend my free time on personal projects
+- 📚 Working with Next.js and React ecosystem
 - 👀 Curious about emerging development trends
-- 👨🏼‍🎓 Graduated as Bachelor of Web Development 
 - 📍 I like to work remotely, hence my current location is always changing 
 <!-- - 💬 Building small side projects and looking for a way to improve myself daily -->
 <!-- - ✨ My goal is to become a mobile app developer  -->
